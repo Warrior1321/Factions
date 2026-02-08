@@ -1,0 +1,8 @@
+{
+  "stone": 1,
+  "cobblestone": 2,
+  "obsidian": 10,
+  "spawner:zombie": 250,
+  "spawner:skeleton": 400,
+  "spawner:creeper": 600
+}
